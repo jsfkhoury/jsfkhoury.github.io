@@ -40,9 +40,9 @@ params:
           My research interests encompass a range of critical areas within cybersecurity. These include Internet-scale measurements, utilizing both passive and active techniques to effectively identify and combat malicious cyber activities. Additionally, I focus on the application of advanced machine learning techniques, specifically Temporal Graph Neural Networks (TGNNs), to detect Advanced Persistent Threats (APTs) at both the network and host levels. I also investigate the use of Large Language Models (LLMs) to uncover vulnerabilities in source and binary code, contributing to the development of more secure software systems. Lastly, I am actively involved in the creation of cyber defense training materials tailored for cyber forces. By conducting translational research, I aim to bridge the gap between theoretical knowledge and practical applications, ensuring that the insights gained from my work directly benefit the security of nations and their citizens.
           <br><br>
           Before coming to LSU, I was a Graduate Research Assistant at the Cyber Center for Security and Analytics (CCSA) at the University of Texas at San Antonio. I received a Bachelor’s degree from the Holy Spirit University of Kaslik (USEK) and a Master’s degree from the American University of Beirut (AUB), both in Computer Science.</div>"
-          imageUrl: "/JosephKhoury.jpg"
-          imageWidth: 160
-          imageHeight: 160
+          imageUrl: "/JosephKhoury-v2.jpg"
+          imageWidth: 200
+          imageHeight: 200
           imageTitle: Joseph Khoury
 
     socialIcons:
