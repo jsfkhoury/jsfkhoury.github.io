@@ -50,8 +50,8 @@ params:
           url: https://scholar.google.com/citations?user=pupjXigAAAAJ&hl=en&oi=ao
         - name: linkedin
           url: https://www.linkedin.com/in/joseph-khoury-313a55125/
-        - name: Email
-          url: mailto:jkhour5@lsu.edu
+        # - name: Email
+        #   url: mailto:jkhour5@lsu.edu
     assets:
         disableHLJS: true
         disableScrollBarStyle: true
