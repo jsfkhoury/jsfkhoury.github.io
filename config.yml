@@ -7,7 +7,6 @@ enableInlineShortcodes: true
 enableRobotsTXT: false
 
 disableKinds:
-  - robotsTXT
   - sitemap
   - taxonomy
 
