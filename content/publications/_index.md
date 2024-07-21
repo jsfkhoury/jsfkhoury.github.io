@@ -11,7 +11,7 @@ description: ""
 ----
 ----
 
-* **Joseph Khoury**, Christelle Nader, Morteza Safaei Pour, Elias Bou-Harb. ["An Internet-Scale Data-Driven Approach for Exploring Cyber Threats Amid Global Conflicts"]() **(IOT Mag '24)**.
+* **Joseph Khoury**, Christelle Nader, Morteza Safaei Pour, Elias Bou-Harb. ["An Internet-Scale Data-Driven Approach for Exploring Cyber Threats Amid Global Conflicts"]() **(IoT Mag '24)**.
 <br><br>
 
 * Nafis Tanveer Islam, **Joseph Khoury**, Andrew Seong, Gonzalo De La Torre Parra, Elias Bou-Harb, Peyman Najafirad. ["LLM-Powered Code Vulnerability Repair with Reinforcement Learning and Semantic Reward"]() **(arXiv preprint '24)**.
