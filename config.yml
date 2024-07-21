@@ -52,10 +52,6 @@ params:
           imageHeight: 190
           imageTitle: Joseph Khoury
 
-          buttons:
-            - name: Publications
-              url: publications/
-
     socialIcons:
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=pupjXigAAAAJ&hl=en&oi=ao
