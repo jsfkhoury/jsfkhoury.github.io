@@ -63,6 +63,8 @@ params:
           url: https://scholar.google.com/citations?user=pupjXigAAAAJ&hl=en&oi=ao
         - name: linkedin
           url: https://www.linkedin.com/in/joseph-khoury-313a55125/
+        - name: email
+          url: https://khouryjoseph.com/resume/
 
     assets:
         disableHLJS: true
