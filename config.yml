@@ -6,8 +6,10 @@ theme: PaperMod
 enableInlineShortcodes: true
 enableRobotsTXT: false
 
-taxonomies:
-    tag: tags
+disableKinds:
+  - robotsTXT
+  - sitemap
+  - taxonomy
 
 params:
     description: "Computer Scientist | Cybersecurity Research"
