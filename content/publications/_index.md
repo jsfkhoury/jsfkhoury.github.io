@@ -3,9 +3,8 @@ title: "Publications"
 description: ""
 ---
 
-## Publications
-
-📚 All my publications are also listed on my [Google Scholar](https://scholar.google.com/citations?user=pupjXigAAAAJ&hl=en&oi=ao)
+## Publications 
+*Last updated: July, 2024*
 
 2024
 ----
