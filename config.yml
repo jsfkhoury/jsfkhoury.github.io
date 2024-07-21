@@ -54,6 +54,8 @@ params:
         buttons:
           - name: Publications
             url: /publications/
+          - name: Resume/CV
+            url: /resume/
 
     socialIcons:
         - name: Google Scholar
