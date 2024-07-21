@@ -10,7 +10,7 @@ taxonomies:
     tag: tags
 
 params:
-    description: "I am a PhD Candidate in Computer Science and Engineering at Louisiana State University (LSU)."
+    description: "Computer Scientist | Cybersecurity Research"
     author: Joseph Khoury
     DateFormat: "January 2006"
     defaultTheme: light
@@ -34,16 +34,27 @@ params:
     profileMode:
           enabled: true
           title: Joseph Khoury
-          subtitle: "<div style='text-align: justify; text-justify: inter-word;'>I'm a Ph.D. candidate in Computer Science and Engineering specializing in Cybersecurity at Louisiana State University (LSU).
+          subtitle: "<div style='text-align: justify; text-justify: inter-word;'>
+
+          <span style='color:#000000;font-weight: bold;'>
+            &#x2757; I am currenty on the academic job market (2024/2025) &#x2757;
+          </span>
+          
+          <br><br>
+          👨🏽‍💻 I'm a Ph.D. candidate in Computer Science and Engineering specializing in Cybersecurity at Louisiana State University (LSU).
 
           <br><br>
-          My research interests encompass a range of critical areas within cybersecurity. These include Internet-scale measurements, utilizing both passive and active techniques to effectively identify and combat malicious cyber activities. Additionally, I focus on the application of advanced machine learning techniques, specifically Temporal Graph Neural Networks (TGNNs), to detect Advanced Persistent Threats (APTs) at both the network and host levels. I also investigate the use of Large Language Models (LLMs) to uncover vulnerabilities in source and binary code, contributing to the development of more secure software systems. Lastly, I am actively involved in the creation of cyber defense training materials tailored for cyber forces. By conducting translational research, I aim to bridge the gap between theoretical knowledge and practical applications, ensuring that the insights gained from my work directly benefit the security of nations and their citizens.
+          📚 I conduct research in cybersecurity, focusing on Internet-scale measurements to characterize and combat malicious activities. I also specialize in using advanced machine learning techniques, such as Temporal Graph Neural Networks (TGNN), to detect Advanced Persistent Threats (APT) attacks. Additionally, I investigate vulnerabilities in source and binary code using Large Language Models (LLM) to enhance software security. I contribute to the development of cyber defense training materials and aim to bridge the gap between theory and practical application for the benefit of national security.
           <br><br>
-          Before coming to LSU, I was a Graduate Research Assistant at the Cyber Center for Security and Analytics (CCSA) at the University of Texas at San Antonio. I received a Bachelor’s degree from the Holy Spirit University of Kaslik (USEK) and a Master’s degree from the American University of Beirut (AUB), both in Computer Science.</div>"
+          🎓 Before coming to LSU, I was a Graduate Research Assistant at the Cyber Center for Security and Analytics (CCSA) at the University of Texas at San Antonio. I received a Bachelor’s degree from the Holy Spirit University of Kaslik (USEK) and a Master’s degree from the American University of Beirut (AUB), both in Computer Science.</div>"
           imageUrl: "/JosephKhoury-v2.jpg"
           imageWidth: 190
           imageHeight: 190
           imageTitle: Joseph Khoury
+
+          buttons:
+            - name: Publications
+              url: publications/
 
     socialIcons:
         - name: Google Scholar
@@ -51,7 +62,8 @@ params:
         - name: linkedin
           url: https://www.linkedin.com/in/joseph-khoury-313a55125/
         # - name: Email
-        #   url: mailto:jkhour5@lsu.edu
+        #   url: mailto:&#106;&#107;&#104;&#111;&#117;&#114;&#053;&#064;&#108;&#115;&#117;&#046;&#101;&#100;&#117;
+
     assets:
         disableHLJS: true
         disableScrollBarStyle: true
