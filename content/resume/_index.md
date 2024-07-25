@@ -12,6 +12,3 @@ description: ""
 Send email to: **<u>jkhour5 [at] lsu [dot] edu</u>**
 <br>
 *(For Resume/CV and other inquiries)*
-
-
-----
