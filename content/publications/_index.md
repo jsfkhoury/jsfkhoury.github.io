@@ -5,7 +5,7 @@ description: ""
 
 ## Publications 
 
-*Last updated: July, 2024*
+![Static Badge](https://img.shields.io/badge/Last%20Updated%20-%20July%2C%202024%20-%20red)
 
 2024
 ----
