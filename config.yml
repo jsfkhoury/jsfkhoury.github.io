@@ -10,17 +10,17 @@ disableKinds:
   - sitemap
   - taxonomy
 
-menu:
-  main:
-    - name: Home
-      url:
-      weight: 1
-    - name: Publications
-      url: /publications/
-      weight: 2
-    - name: Resume/CV
-      url: /resume/
-      weight: 3
+# menu:
+#   main:
+#     - name: Home
+#       url:
+#       weight: 1
+#     - name: Publications
+#       url: /publications/
+#       weight: 2
+#     - name: Resume/CV
+#       url: /resume/
+#       weight: 3
 
 params:
     description: "Computer Scientist | Cybersecurity Research"
