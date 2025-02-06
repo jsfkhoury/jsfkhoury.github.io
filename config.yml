@@ -60,11 +60,6 @@ params:
           
           imageTitle: Joseph Khoury
     
-    # buttons:
-    #     - name: Publications
-    #       url: /publications/
-    #     - name: Resume/CV
-    #       url: /resume/
     socialIcons:
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=pupjXigAAAAJ&hl=en&oi=ao
