@@ -1,6 +1,5 @@
 baseURL: "https://khouryjoseph.com/"
 title: Joseph Khoury
-pagination.pagerSize: 20
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -58,7 +57,7 @@ params:
           
           imageTitle: Joseph Khoury
     
-    social:
+    socialIcons:
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=pupjXigAAAAJ&hl=en&oi=ao
         - name: linkedin
