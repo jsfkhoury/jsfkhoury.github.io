@@ -1,6 +1,6 @@
 baseURL: "https://khouryjoseph.com/"
 title: Joseph Khoury
-paginate: 20
+pagination.pagerSize: 20
 theme: PaperMod
 
 enableInlineShortcodes: true
