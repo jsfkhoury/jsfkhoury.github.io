@@ -58,7 +58,7 @@ params:
           
           imageTitle: Joseph Khoury
     
-    socialIcons:
+    social:
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=pupjXigAAAAJ&hl=en&oi=ao
         - name: linkedin
