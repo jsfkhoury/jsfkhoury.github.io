@@ -57,19 +57,11 @@ jobs:
           hugo \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
-            --cleanDestinationDir
-      - name: Verify artifact
-        run: |
-          echo "Checking for symbolic links..."
-          find public/ -type l -exec ls -l {} \;
-          echo "Checking total size..."
-          du -sh public/
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
           name: github-pages
           path: ./public
-          retention-days: 1
 
   # Deployment job
   deploy:
