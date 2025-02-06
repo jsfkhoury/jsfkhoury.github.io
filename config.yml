@@ -9,6 +9,8 @@ enableRobotsTXT: true
 taxonomies:
     tag: tags
 
+# <img style='display: inline; all: initial;' alt='Static Badge' src='https://img.shields.io/badge/Open%20to%20Academic%20Career%20Opportunities%20%20-%20Fall%202025%20-%20red'>
+
 params:
     description: "I am a PhD Candidate in Computer Science and Engineering at Louisiana State University (LSU)."
     author: Joseph Khoury
@@ -34,24 +36,42 @@ params:
     profileMode:
           enabled: true
           title: Joseph Khoury
-          subtitle: "<div style='text-align: justify; text-justify: inter-word;'>I'm a Ph.D. candidate in Computer Science and Engineering specializing in Cybersecurity at Louisiana State University (LSU).
+          
+          subtitle: "<div style='text-align: justify; text-justify: inter-word;'>
+        
+          <a href='https://ascslab.com' target='_blank'>        
+          <img style='display: inline; all: initial;' alt='Static Badge' src='https://img.shields.io/badge/Visit%20my%20lab%27s%20web%20page-ASCSlab.com-brown'>
+          </a>
+          <br><br>
+          
+          👨🏽‍💻 I'm a Ph.D. candidate in Computer Science and Engineering with a focus on Cybersecurity at Louisiana State University (LSU).
 
           <br><br>
-          My research interests encompass a range of critical areas within cybersecurity. These include Internet-scale measurements, utilizing both passive and active techniques to effectively identify and combat malicious cyber activities. Additionally, I focus on the application of advanced machine learning techniques, specifically Temporal Graph Neural Networks (TGNNs), to detect Advanced Persistent Threats (APTs) at both the network and host levels. I also investigate the use of Large Language Models (LLMs) to uncover vulnerabilities in source and binary code, contributing to the development of more secure software systems. Lastly, I am actively involved in the creation of cyber defense training materials tailored for cyber forces. By conducting translational research, I aim to bridge the gap between theoretical knowledge and practical applications, ensuring that the insights gained from my work directly benefit the security of nations and their citizens.
+          
+          📚 I conduct research in Cybersecurity, focusing on Internet-scale measurements to characterize and analyze malicious activities in the wild. I also research and employ advanced machine learning techniques, such as Temporal Graph Neural Networks (TGNN), to detect Lateral Movement in large and dynamic networks. Additionally, I investigate the capabilities of Large Language Models (LLM) in detecting and repairing software security vulnerabilities. Furthermore, I am actively involved in the development of cyber defense training materials, aiming to enhance the security preparedness of cyber forces.
+          
           <br><br>
-          Before coming to LSU, I was a Graduate Research Assistant at the Cyber Center for Security and Analytics (CCSA) at the University of Texas at San Antonio. I received a Bachelor’s degree from the Holy Spirit University of Kaslik (USEK) and a Master’s degree from the American University of Beirut (AUB), both in Computer Science.</div>"
-          imageUrl: "/JosephKhoury-v2.jpg"
-          imageWidth: 190
-          imageHeight: 190
+          
+          🎓 Before coming to LSU, I was a Graduate Research Assistant at the Cyber Center for Security and Analytics (CCSA) at the University of Texas at San Antonio. I received a Bachelor’s degree from the Holy Spirit University of Kaslik (USEK) and a Master’s degree from the American University of Beirut (AUB), both in Computer Science.</div>"
+          
+          imageUrl: "/Joseph.jpg"
+          imageWidth: 200
+          imageHeight: 200
+          
           imageTitle: Joseph Khoury
-
+    
+    # buttons:
+    #     - name: Publications
+    #       url: /publications/
+    #     - name: Resume/CV
+    #       url: /resume/
     socialIcons:
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=pupjXigAAAAJ&hl=en&oi=ao
         - name: linkedin
           url: https://www.linkedin.com/in/joseph-khoury-313a55125/
-        # - name: Email
-        #   url: mailto:jkhour5@lsu.edu
+        - name: ASCSLab.com
+          url: https://www.ascslab.com/
     assets:
         disableHLJS: true
         disableScrollBarStyle: true
