@@ -15,7 +15,7 @@ As part of my teaching service, I am redesigning my computer science and cyberse
 
 ## Doctorate
 
-* **Ph.D. in Computer Science** <br>
+* **Ph.D. Degree in Computer Science** <br>
 <a href='https://www.lsu.edu/' target='_blank'>Louisiana State University (LSU)</a><br>
 Baton Rouge, Louisiana, United States
 
@@ -29,14 +29,14 @@ San Antonio, Texas, United States
 
 ## Masters
 
-* **M.S. in Computer Science** <br>
+* **M.S. Degree in Computer Science** <br>
 <a href='https://www.lsu.edu/' target='_blank'>Louisiana State University (LSU)</a><br>
 Baton Rouge, Louisiana, United States
 
 
 <br>
 
-* **M.S. in Computer Science** <br>
+* **M.S. Degree in Computer Science** <br>
 <a href='https://www.aub.edu.lb/' target='_blank'>American University of Beirut (AUB)</a><br>
 Beirut, Lebanon
 
@@ -44,7 +44,7 @@ Beirut, Lebanon
 
 ## Bachelor
 
-* **B.S. in Computer Science** <br>
+* **B.S. Degree in Computer Science** <br>
 <a href='https://www.usek.edu.lb/' target='_blank'>Holy Spirit University of Kaslik (USEK)</a><br>
 Kaslik, Lebanon
 
