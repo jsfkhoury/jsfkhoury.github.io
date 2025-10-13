@@ -9,10 +9,6 @@ description: ""
 
 ---
 
-As part of my teaching service, I am redesigning my computer science and cybersecurity courses to provide active, student-centered, and hands-on learning experiences.
-
----
-
 ## Doctorate
 
 * **Ph.D. Degree in Computer Science** <br>
