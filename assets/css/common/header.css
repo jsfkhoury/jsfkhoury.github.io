@@ -6,6 +6,12 @@
     margin-inline-end: auto;
     line-height: var(--header-height);
     background: var(--code-bg);
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
 
 .nav a {
@@ -23,7 +29,7 @@
 }
 
 .logo a {
-    font-size: var(--headersize);
+    font-size: 20px;
     font-weight: var(--semibold);
 }
 
@@ -62,12 +68,12 @@ body:not(.dark) #sun {
 }
 
 #menu a {
-    font-size: var(--headersize);
+    font-size: 18px;
     font-weight: 400;
 }
 
 #menu .active {
-    border-bottom: 2px solid var(--darkpurple);
+    border-bottom: 2px solid var(--gray);
 }
 
 .lang-switch li,

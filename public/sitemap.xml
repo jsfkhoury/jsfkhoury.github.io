@@ -2,8 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://khouryjoseph.com/</loc>
+    <loc>http://localhost:63708/education/</loc>
   </url><url>
-    <loc>https://khouryjoseph.com/tags/</loc>
+    <loc>http://localhost:63708/teaching/</loc>
+  </url><url>
+    <loc>http://localhost:63708/</loc>
+  </url><url>
+    <loc>http://localhost:63708/publications/</loc>
+  </url><url>
+    <loc>http://localhost:63708/service/</loc>
+  </url><url>
+    <loc>http://localhost:63708/tags/</loc>
   </url>
 </urlset>
