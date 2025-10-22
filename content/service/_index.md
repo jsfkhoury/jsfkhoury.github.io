@@ -11,7 +11,12 @@ description: ""
 
 ---
 
-* **IEEE Transactions on Network and Service Management** <br>
+* **IEEE/IFIP Network Operations and Management (NOMS)** <br>
+Experience Session Co-chair | 2026
+
+<br>
+
+* **IEEE Transactions on Network and Service Management (TNSM)** <br>
 Associate Editor | 2025-2026
 
 <br>
