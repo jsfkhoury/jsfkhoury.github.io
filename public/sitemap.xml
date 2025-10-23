@@ -2,16 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:60379/education/</loc>
+    <loc>http://localhost:56969/education/</loc>
   </url><url>
-    <loc>http://localhost:60379/teaching/</loc>
+    <loc>http://localhost:56969/teaching/</loc>
   </url><url>
-    <loc>http://localhost:60379/</loc>
+    <loc>http://localhost:56969/</loc>
   </url><url>
-    <loc>http://localhost:60379/publications/</loc>
+    <loc>http://localhost:56969/publications/</loc>
   </url><url>
-    <loc>http://localhost:60379/service/</loc>
+    <loc>http://localhost:56969/service/</loc>
   </url><url>
-    <loc>http://localhost:60379/tags/</loc>
+    <loc>http://localhost:56969/tags/</loc>
+  </url><url>
+    <loc>http://localhost:56969/visibility/</loc>
   </url>
 </urlset>

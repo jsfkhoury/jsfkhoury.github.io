@@ -22,6 +22,9 @@ menu:
     - name: Service
       url: /service/
       weight: 5
+    - name: Visibility
+      url: /visibility/
+      weight: 6
 
 taxonomies:
     tag: tags
@@ -48,6 +51,7 @@ params:
     UseHugoToc: true
     comments: false
     math: true
+    GoogleAnalyticsID: "G-XXL91JDN63"
     profileMode:
           enabled: true
           title: Joseph Khoury, Ph.D.
@@ -74,6 +78,8 @@ params:
               url: teaching/
             - name: Services
               url: service/
+            - name: Visibility
+              url: visibility/
 
     
     socialIcons:
