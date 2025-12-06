@@ -23,7 +23,7 @@ As part of my teaching service, I am redesigning my computer science and cyberse
 <br>
 
 * **CSC 4351: Compiler Construction** <br>
-    *Session:* Spring '25 <br>
+    *Session:* Spring '26 <br>
     *Description:* To be posted soon.<br>
 
 

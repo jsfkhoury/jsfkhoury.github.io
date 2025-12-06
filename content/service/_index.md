@@ -11,6 +11,21 @@ description: ""
 
 ---
 
+* **16th ACM Conference on Data and Application Security and Privacy (CODASPY 2026)** <br>
+Program Committee | 2026
+
+<br>
+
+* **USENIX Security** <br>
+Artifact Evaluator Committee Member | 2026
+
+<br>
+
+* **IEEE/IFIP Network Operations and Management (NOMS)** <br>
+Reviewer | 2026
+
+<br>
+
 * **IEEE/IFIP Network Operations and Management (NOMS)** <br>
 Experience Session Co-chair | 2026
 
